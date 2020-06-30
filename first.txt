@@ -1,2 +1,5 @@
 GitHub の学習
 Git の基本的な使用方法を学習します。
+・git add
+・git commit
+・git status
